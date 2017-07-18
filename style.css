@@ -23,7 +23,7 @@ p#tagline {padding: 0; font-size: 100%; color: #56A49F; letter-spacing: 12px; fo
 p#tagline a:link {padding: 0; font-size: 115%; color: #56A49F; letter-spacing: 12px;}
 p#tagline a:visited {padding: 0; font-size: 115%; color: #56A49F; letter-spacing: 12px;}
 
-h2 {font-family: Open Sans, Helvetica, sans-serif; font-size: 2.2em; color:#333; font-weight:normal; margin-top:1em;}
+h2 {font-family: Open Sans, Helvetica, sans-serif; font-size: 1.8em; color:#666; font-weight:normal; margin-top: 1em;}
 h3 {font-family: Open Sans, Helvetica, sans-serif; font-size: 1.8em; color:#666; font-weight:normal; line-height: 1em; margin-top: 1.5em;}
 h4 {font-family: Georgia, "Times New Roman", Times, serif; font-size: 1em; color:#000000;}
 h5 {font-size: .7em; color:#666; font-family: Open Sans, Helvetica, sans-serif; font-weight: bold; letter-spacing: .2em; line-height: .2em;}
